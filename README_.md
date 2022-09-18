@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Minirodi/social-proof-section-master)
-- Live Site URL: [Add live site URL here](https://minirodi.github.io/social-proof-section-master/)
+- Solution URL: (https://github.com/Minirodi/social-proof-section-master)
+- Live Site URL: (https://minirodi.github.io/social-proof-section-master/)
 
 
 ### Built with
